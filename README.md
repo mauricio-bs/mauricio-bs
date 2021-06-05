@@ -6,11 +6,16 @@
 
 <p>Hi, i'm Mauricio Schimit, a student of Systems Analysis and Development passionate about technology and challenges</p>
 
+<br>
+<br>
+
 <p>👩‍💻 &nbsp; I'm from São Paulo in Brazil</p>
 <p>🔭 &nbsp; I'm currently working like a Field Service Analist on Stefanini IT Solutions</p>
 <p>🎓 &nbsp; Styding development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
 <p>💼 &nbsp; Goals: Get a job in programming area, and become a great Fullstack dev</p>
 <p>👯 &nbsp; Try to 2021: Participate and interact more in the community</p>
+
+<br>
 
 ### 🤝 Connect with me:
 
@@ -28,30 +33,36 @@
 <!-- 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> -->
-</p>  
+</p>
+
+<br>
 <br>
 
 ## 🚀 My Skills
 
+<br>
 
 **Aplications and data**
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+<br>
 
  🌱 **Learning:**
  
-<code><img height="25" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+<br>
 
 **DevOps**
 
-  <code><img height="25" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="35"/>
 
+<br>
 
 ## 🏆 Github stats:
 
