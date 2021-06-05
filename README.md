@@ -6,10 +6,11 @@
 
 <p>Hi, i'm Mauricio Schimit, a student of Systems Analysis and Development passionate about technology and challenges</p>
 
-<p>👩‍💻I'm from São Paulo in Brazil</p>
-<p>🔭I'm currently working like a Field Service Analist on Stefanini IT Solutions</p>
-<p>💼 Goals: Get a job in programming area, and become a great Fullstack dev</p>
-<p> 👯Try to 2021: Participate and interact more in the community</p>
+<p>👩‍💻 &nbsp; I'm from São Paulo in Brazil</p>
+<p>🔭 &nbsp; I'm currently working like a Field Service Analist on Stefanini IT Solutions</p>
+<p>🎓 &nbsp; Styding development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
+<p>💼 &nbsp; Goals: Get a job in programming area, and become a great Fullstack dev</p>
+<p>👯 &nbsp; Try to 2021: Participate and interact more in the community</p>
 
 ### 🤝 Connect with me:
 
