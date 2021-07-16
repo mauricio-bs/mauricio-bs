@@ -2,7 +2,7 @@
 
 ## Hello there, I'm Mauricio! 👋
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <p>Hi, i'm Mauricio Schimit, a student of Systems Analysis and Development passionate about technology and challenges</p>
 
@@ -11,31 +11,10 @@
 
 <p>👩‍💻 &nbsp; I'm from São Paulo in Brazil</p>
 <p>🔭 &nbsp; I'm currently working like a Field Service Analist on Stefanini IT Solutions</p>
-<p>🎓 &nbsp; Styding development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
+<p>🎓 &nbsp; Styding development with Javascript at <a href="https://rodolfomori.com/code-club-espera" target="_blank">CODECLUB</a></p>
 <p>💼 &nbsp; Goals: Get a job in programming area, and become a great Fullstack dev</p>
 <p>👯 &nbsp; Try to 2021: Participate and interact more in the community</p>
 
-<br>
-
-### 🤝 Connect with me:
-
-<p align="left">
-    <a href="mailto:mauricio.3g2014@gmail.com">
-    <img align="left" alt="Mauricio | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-  </a>
-
- <a href="https://in.linkedin.com/in/maurício-schimit-6a6b31160/">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a>
-   <a href="https://www.instagram.com/mauricio.bbs">
-    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
-  </a>
-<!-- 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> -->
-</p>
-
-<br>
 <br>
 
 ## 🚀 My Skills
@@ -44,28 +23,59 @@
 
 **Aplications and data**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 <br>
 
- 🌱 **Learning:**
+ 🌱 **Learning**
  
-<code><img height="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+ <p align="left">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<br>
+
+**Utilities**
+
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
 
 <br>
 
 **DevOps**
 
-  <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="35"/>
-
+<p align="left">
+    <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+    
 <br>
 
 ## 🏆 Github stats:
+<a href="https://github.com/mauricio-bs">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauricio-bs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mauricio B Schimit github stats"/>
+</a>
 
-[![card](https://github-readme-stats.vercel.app/api?username=mauricio-bs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e)](https://github.com/mauricio-bs/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-bs&show_icons=true&hide_border=true&theme=radical)](https://github.com/rodolfomori/github-readme-stats)
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<a href="https://github.com/mauricio-bs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-bs&show_icons=true&hide_border=true&theme=radical" alt="Mauricio B Schimit github stats"/>
+</a>
+
+<br> 
+
+### 🌎 &nbsp; Where find me:
+
+<p align="left">
+    <a href="https://linkedin.com/in/mauricio-bonfin-schimit-6a6b31160">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a mailto="mbschimit@outlook.com">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/mauricio.bbs">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</p>
