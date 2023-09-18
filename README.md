@@ -4,7 +4,7 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<p>Hi, i'm Mauricio Schimit, a Software Developer passionate about technology, security and challenges</p>
+<p>Hi, i'm Mauricio Schimit, a Software Engineer passionate about technology, security and challenges</p>
 
 <br>
 <br>
@@ -13,7 +13,7 @@
 <p>💼 &nbsp; I'm currently working like a Fullstack Developer on Xgrow Learning</p>
 <p>🎓 &nbsp; Studied development with Javascript, NodeJS, React and React Native at <a href="https://rodolfomori.com.br/devclub/" target="_blank">Devclub</a></p>
 <p>🎯 &nbsp; Goals: To be a better developer than yesterday and less than tomorrow</p>
-<p>⚠️ &nbsp; PS: Some skills don't have badges for github, to know more about me visit my linkedin</p>
+<p>⚠️ &nbsp; PS: Some skills don't have badges for github, to know more about me visit my <a href="https://linkedin.com/in/mauricio-bonfin-schimit">linkedin</a></p>
 
 <br>
 
